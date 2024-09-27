@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web and Cloud based projects
 - 🌱 I’m currently learning Cloud Computing and DevOps Concepts
-- 📫 How to reach me: Portfolio Website Coming Soon (Under Maintenance)
+- 📫 How to reach me: [Portfolio Website](https://adityaprakash.netlify.app/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Keep calm and refactor ✨
 
