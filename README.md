@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 
 
 -->
-[Resume_Aditya_Prakash_SWE](https://github.com/adityaprakashneu/adityaprakashneu/files/13979010/Aditya_Prakash_SWE.pdf)
+[AdityaPrakash_FullStackDeveloper_Resume.pdf](https://github.com/user-attachments/files/17169597/AdityaPrakash_FullStackDeveloper_Resume.pdf)
+
